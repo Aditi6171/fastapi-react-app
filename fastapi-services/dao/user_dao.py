@@ -1,5 +1,3 @@
-import mysql.connector
-
 from dao.base_dao import BaseDAO
 from model.user_model import User
 

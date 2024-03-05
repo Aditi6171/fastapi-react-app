@@ -5,8 +5,8 @@ from dao.dept_dao import DeptDAO
 from dao.emp_dao import EmpDAO
 from dao.user_dao import UserDAO
 from model.dept_model import Department
-from model.user_model import User
 from model.emp_model import Employee
+from model.user_model import User
 
 app = FastAPI()
 

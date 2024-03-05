@@ -1,6 +1,6 @@
-import mysql.connector
 from dao.base_dao import BaseDAO
 from model.dept_model import Department
+
 
 class DeptDAO(BaseDAO):
     def __init__(self):
